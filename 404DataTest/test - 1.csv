@@ -1,0 +1,6 @@
+id,manager,device,channel,date,invest,registrations
+1,ivanov,ios,facebook,2019.01.31,917,84
+2,sidorov,ios,facebook,2019.01.31,772,100
+3,ivanov,ios,facebook,2019.01.31,30,0
+4,ivanov,web,yandex,2019.01.31,626,54
+5,petrova,ios,facebook,2019.01.31,723,75
